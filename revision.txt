@@ -124,3 +124,27 @@ JP: 73 - EN: 72
 Nawatobi
 JP: 48 - EN: 51
 --------------------------
+Nightingale Love Song
+JP: 63 - EN: 62
+--------------------------
+PSYCHIC FIRE
+JP: 51 - EN: 50
+--------------------------
+Sayounara e Sayonara!
+JP: 42 - EN: 44
+--------------------------
+Storm in Lover
+JP: 50 - EN: 62
+--------------------------
+SUNNY DAY SONG
+JP: 58 - EN: 57
+--------------------------
+Wonderful Rush
+JP: 87 - EN: 88
+--------------------------
+Zurui yo Magnetic today
+JP: 59 - EN: 60
+--------------------------
+DROPOUT!?
+JP: 50 - EN: 55
+--------------------------
