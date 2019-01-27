@@ -1,11 +1,26 @@
+Bokura no Hashittekita Michi wa…
+JP: 50 - EN: 1
+--------------------------
+Next SPARKLING!!
+JP: 46 - EN: 1
+--------------------------
+Hop? Stop? Nonstop!
+JP: 44 - EN: 1
+--------------------------
 Thank you, FRIENDS!!
 JP: 70 - EN: 69
 --------------------------
-Hajimari Road
-JP: 72 - EN: 1
+Tousou Meisou Mobius Loop
+JP: 37 - EN: 1
 --------------------------
-Yosoku Fukanou Driving!
-JP: 53 - EN: 1
+Over The Next Rainbow
+JP: 35 - EN: 1
+--------------------------
+Shoujo Ijou no Koi ga Shitai
+JP: 56 - EN: 54
+--------------------------
+Brightest Melody
+JP: 26 - EN: 1
 --------------------------
 Aozora Jumping Heart
 JP: 51 - EN: 53
@@ -13,8 +28,17 @@ JP: 51 - EN: 53
 Beginner's Sailing
 JP: 66 - EN: 65
 --------------------------
+Bokura no Hashittekita Michi wa…
+JP: 50 - EN: 1
+--------------------------
+Brightest Melody
+JP: 26 - EN: 1
+--------------------------
 Hajimari Road
 JP: 72 - EN: 1
+--------------------------
+Hop? Stop? Nonstop!
+JP: 44 - EN: 1
 --------------------------
 Hop・Step・Waai!
 JP: 50 - EN: 51
@@ -49,8 +73,14 @@ JP: 57 - EN: 59
 Natsu no Owari no Amaoto ga
 JP: 54 - EN: 46
 --------------------------
+Next SPARKLING!!
+JP: 46 - EN: 1
+--------------------------
 No.10
 JP: 34 - EN: 36
+--------------------------
+Over The Next Rainbow
+JP: 35 - EN: 1
 --------------------------
 Oyasuminasan!
 JP: 40 - EN: 44
@@ -82,6 +112,9 @@ JP: 69 - EN: 70
 Todokanai Hoshi da to Shitemo
 JP: 40 - EN: 41
 --------------------------
+Tousou Meisou Mobius Loop
+JP: 37 - EN: 1
+--------------------------
 Yosoku Fukanou Driving!
 JP: 53 - EN: 1
 --------------------------
@@ -93,9 +126,6 @@ JP: 42 - EN: 43
 --------------------------
 Wonderful Rush
 JP: 87 - EN: 88
---------------------------
-PSYCHIC FIRE
-JP: 51 - EN: 50
 --------------------------
 After school NAVIGATORS
 JP: 74 - EN: 75
@@ -181,9 +211,21 @@ JP: 47 - EN: 49
 Zurui yo Magnetic today
 JP: 59 - EN: 60
 --------------------------
-DROPOUT!?
-JP: 50 - EN: 55
+Believe again
+JP: 36 - EN: 1
+--------------------------
+Over The Next Rainbow
+JP: 35 - EN: 1
 --------------------------
 DROPOUT!?
 JP: 50 - EN: 55
+--------------------------
+Believe again
+JP: 36 - EN: 1
+--------------------------
+DROPOUT!?
+JP: 50 - EN: 55
+--------------------------
+Over The Next Rainbow
+JP: 35 - EN: 1
 --------------------------
