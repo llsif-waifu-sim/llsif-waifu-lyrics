@@ -17,14 +17,14 @@ SMILING!　お悩み  { おなやみ }  Bye-bye　SMILING!
 シアワセに(Happy!)
 なろうよいつも...SMILING!(いっぱいSMILING!)
 さあ、だから君  { きみ }  も解放  { かいほう }  しなくちゃ(さあもっと!)
-そのPower Power on!　毎日笑  { まいにちわらい }  おう!
+そのPower Power on!　毎日  { まいにち }  笑おう  { わらいおう }  !
 
 SMILING!　シアワセWelcome　SMILING!
 SMILING!　シアワセWelcome　SMILING!
 
-ずーっと夢  { ゆめ }  はかなうんだと言い  { いい }  聞か  { きか }  せてきた
+ずーっと夢  { ゆめ }  はかなうんだと言い  { いい }  聞かせ  { きかせ }  てきた
 ちょっとずつでかまわない
-とにかく、ね?　進  { すすむ }  もう!
+とにかく、ね?　進もう  { すすもう }  !
 トラブルも笑顔  { えがお }  でくぐり抜け  { ぬけ }  て
 一緒  { いっしょ }  にミライへ飛ん  { とん }  じゃえ
 
@@ -35,11 +35,11 @@ SMILING!　シアワセWelcome　SMILING!
 ヨロコビの(Lucky!)
 予感  { よかん }  が胸  { むね }  で踊り  { おどり }  だすよ(I makin' Lucky!)
 ヨロコビを(Lucky!)
-逃が  { にが }  さないで...CATCHING!(いっぱいCATCHING!)
+逃  { とう }  がさないで...CATCHING!(いっぱいCATCHING!)
 そう、もっと君  { きみ }  も楽しく  { たのしく }  ならなきゃ(そうもっと!)
-LOVE Power Power on!　ステキに笑おう  { わらおう }  !
+LOVE Power Power on!　ステキに笑おう  { わらいおう }  !
 
-心から  { こころから }  「できる!」と思え  { おもえ }  ばいいんだよ
+心  { こころ }  から「できる!」と思え  { おもえ }  ばいいんだよ
 手  { て }  をつなごうね
 元気  { げんき }  をわけてあげる!
 
@@ -48,7 +48,7 @@ LOVE Power Power on!　ステキに笑おう  { わらおう }  !
 シアワセに(Happy!)
 なろうよいつも...SMILING!(いっぱいSMILING!)
 さあ、だから君  { きみ }  も解放  { かいほう }  しなくちゃ(さあもっと!)
-そのPower Power on!　毎日笑  { まいにちわらい }  おう!
+そのPower Power on!　毎日  { まいにち }  笑おう  { わらいおう }  !
 
 SMILING!　お悩み  { おなやみ }  Bye-bye　SMILING!
 SMILING!　お悩み  { おなやみ }  Bye-bye　SMILING!

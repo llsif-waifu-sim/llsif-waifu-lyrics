@@ -1,8 +1,8 @@
 
-(Oh yeah! Oh yeah! Oh yeah!
-Isshin icchou!)
-(Oh yeah! Oh yeah! Oh yeah!
-Hora makenai yo ne?)
+(Oh yeah! Oh yeah! Oh yeah!)
+(Isshin icchou!)
+(Oh yeah! Oh yeah! Oh yeah!)
+(Hora makenai yo ne?)
 
 Kuyashii na mada No brand
 Shiraretenai yo No brand
@@ -19,19 +19,19 @@ Chansu no maegami o
 (Gyutto) hanasanai kara
 (Oh yeah!) kiseki no niji wo watarunda
 
-Kabe wa Hi Hi Hi kowaseru mono sa Hi Hi Hi taoseru mono sa
+Kabe wa (Hi Hi Hi) kowaseru mono sa (Hi Hi Hi) taoseru mono sa
 Jibun kara motto chikara o dashite yo
 Hi Hi Hi kowaseru mono sa Hi Hi Hi taoseru mono sa
 Yuuki de mirai o misete
-(Oh yeah! Oh yeah! Oh yeah!
-Un makenai kara!)
+(Oh yeah! Oh yeah! Oh yeah!)
+(Un makenai kara!)
 
 Kizutsukeaccha No good
 Nakatagai wa No good
 Daisuki no gokai wa tsurai kibun
 
-Kurushii mune wa No good (hurry-up!)
-Akirametara No good (hurry-up!)
+Kurushii mune wa No good (Hurry Up!)
+Akirametara No good (Hurry Up!)
 Sou sa (tsuyoku) nareba kanau omoi (Yes, I go!)
 
 Negau basho wa (tooi)
@@ -41,9 +41,9 @@ Janpu de chikaku nare
 (Gutto) senobi no boku de
 (Oh yeah!) ano hi no chikai sagasunda
 
-Yami wo Hi Hi Hi fukitobasou yo Hi Hi Hi oiharaou yo
+Yami wo (Hi Hi Hi) fukitobasou yo (Hi Hi Hi) oiharaou yo
 Jibun kara ima o kaereba ii no sa
-Hi Hi Hi fukitobasou yo Hi Hi Hi oiharaou yo
+(Hi Hi Hi) fukitobasou yo (Hi Hi Hi) oiharaou yo
 Yuuki de mirai o misete
 Sou da yo kakugo wa dekita
 
@@ -52,7 +52,7 @@ Sou da yo kakugo wa dekita
 
 Kabe wa Hi Hi Hi kowaseru mono sa Hi Hi Hi taoseru mono sa
 Jibun kara motto chikara o dashite yo
-Hi Hi Hi kowaseru mono sa Hi Hi Hi taoseru mono sa
+(Hi Hi Hi) kowaseru mono sa Hi Hi Hi taoseru mono sa
 Yuuki de mirai o misete
 Sou da yo kakugo wa dekita
 

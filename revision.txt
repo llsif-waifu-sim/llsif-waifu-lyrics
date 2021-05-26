@@ -1,204 +1,222 @@
-Brightest Melody
-JP: 53 - EN: 1
+b'Deep Resonance'
+JP: 38 - EN: 40
 --------------------------
-Over The Next Rainbow
-JP: 51 - EN: 1
+b'Mitaiken HORIZON'
+JP: 57 - EN: 58
 --------------------------
-Bokura no Hashittekita Michi wa…
-JP: 50 - EN: 53
---------------------------
-Thank you, FRIENDS!!
-JP: 70 - EN: 69
---------------------------
-Hajimari Road
-JP: 72 - EN: 1
---------------------------
-Aozora Jumping Heart
+b'Aozora Jumping Heart'
 JP: 51 - EN: 53
 --------------------------
-Beginner's Sailing
+b"Beginner's Sailing"
 JP: 66 - EN: 65
 --------------------------
-Bokura no Hashittekita Michi wa…
+b'Bokura no Hashittekita Michi wa\xe2\x80\xa6'
 JP: 50 - EN: 53
 --------------------------
-Brightest Melody
-JP: 53 - EN: 1
+b'Brightest Melody'
+JP: 53 - EN: 54
 --------------------------
-Hajimari Road
-JP: 72 - EN: 1
+b'Deep Resonance'
+JP: 38 - EN: 40
 --------------------------
-Hop・Step・Waai!
+b'Future flight'
+JP: 64 - EN: 184
+--------------------------
+b'Hajimari Road'
+JP: 72 - EN: 69
+--------------------------
+b'Hop Step Waai!'
 JP: 50 - EN: 51
 --------------------------
-Jimo Ai ♡ Mantan ☆ Summer Life
+b'Jimo Ai \xe2\x99\xa1 Mantan \xe2\x98\x86 Summer Life'
 JP: 45 - EN: 51
 --------------------------
-Kimi no Hitomi o Meguru Bouken
-JP: 47 - EN: 46
+b'JIMO-AI Dash!'
+JP: 75 - EN: 76
 --------------------------
-Kinmirai Happy End
+b'Kimi no Hitomi o Meguru Bouken'
+JP: 47 - EN: 50
+--------------------------
+b'Kinmirai Happy End'
 JP: 49 - EN: 50
 --------------------------
-Koi ni Naritai AQUARIUM
+b'Koi ni Naritai AQUARIUM'
 JP: 57 - EN: 58
 --------------------------
-LONELY TUNING
+b'LONELY TUNING'
 JP: 49 - EN: 50
 --------------------------
-Manatsu wa Dare no Mono?
-JP: 52 - EN: 65
+b'Love Pulsar'
+JP: 49 - EN: 50
 --------------------------
-MIRACLE WAVE
+b'Manatsu wa Dare no Mono?'
 JP: 52 - EN: 53
 --------------------------
-Mirai no Bokura wa Shitteru yo
+b'MIRACLE WAVE'
+JP: 52 - EN: 53
+--------------------------
+b'Mirai no Bokura wa Shitteru yo'
 JP: 43 - EN: 45
 --------------------------
-Natsu e no Tobira Never end ver.
-JP: 57 - EN: 59
---------------------------
-Natsu no Owari no Amaoto ga
-JP: 54 - EN: 46
---------------------------
-No.10
-JP: 34 - EN: 36
---------------------------
-Over The Next Rainbow
-JP: 51 - EN: 1
---------------------------
-Oyasuminasan!
-JP: 40 - EN: 44
---------------------------
-P.S. no Mukougawa
-JP: 58 - EN: 57
---------------------------
-Sakana ka Nanda ka?
-JP: 49 - EN: 26
---------------------------
-Shoujo Ijou no Koi ga Shitai
-JP: 56 - EN: 54
---------------------------
-Sora mo Kokoro mo Hareru kara
-JP: 39 - EN: 38
---------------------------
-Sotsugyou desu ne
-JP: 44 - EN: 43
---------------------------
-Taiyou o Oikakero!
-JP: 61 - EN: 59
---------------------------
-Thank you, FRIENDS!!
-JP: 70 - EN: 69
---------------------------
-Thrilling・One Way
-JP: 69 - EN: 70
---------------------------
-Todokanai Hoshi da to Shitemo
-JP: 40 - EN: 41
---------------------------
-Yosoku Fukanou Driving!
-JP: 53 - EN: 1
---------------------------
-Snow halation
-JP: 40 - EN: 38
---------------------------
-Bokutachi wa Hitotsu no Hikari
-JP: 42 - EN: 43
---------------------------
-After school NAVIGATORS
-JP: 74 - EN: 75
---------------------------
-Bokutachi wa Hitotsu no Hikari
-JP: 42 - EN: 43
---------------------------
-COLORFUL VOICE
-JP: 61 - EN: 65
---------------------------
-Dancing stars on me!
-JP: 51 - EN: 50
---------------------------
-Daring!!
-JP: 98 - EN: 96
---------------------------
-Eien Friends
-JP: 59 - EN: 58
---------------------------
-Futari Happiness
-JP: 47 - EN: 48
---------------------------
-Future style
-JP: 48 - EN: 49
---------------------------
-HEART to HEART!
-JP: 55 - EN: 56
---------------------------
-Hello, Hoshi o Kazoete
-JP: 56 - EN: 60
---------------------------
-Kokuhaku Biyori, desu!
-JP: 53 - EN: 51
---------------------------
-Koremade no Love Live!
-JP: 18 - EN: 17
---------------------------
-Kururin MIRACLE
+b'Mitaiken HORIZON'
 JP: 57 - EN: 58
 --------------------------
-Listen to my heart!!
-JP: 83 - EN: 67
+b'Natsu e no Tobira Never end ver.'
+JP: 57 - EN: 58
 --------------------------
-Love marginal
-JP: 49 - EN: 48
+b'Natsu no Owari no Amaoto ga'
+JP: 54 - EN: 50
 --------------------------
-Love wing bell
-JP: 44 - EN: 43
+b'No.10'
+JP: 34 - EN: 36
 --------------------------
-Natsuiro Egao de 1,2,Jump!
-JP: 73 - EN: 72
+b'Over The Next Rainbow'
+JP: 51 - EN: 53
 --------------------------
-Nawatobi
-JP: 48 - EN: 51
+b'Oyasuminasan!'
+JP: 40 - EN: 44
 --------------------------
-Nightingale Love Song
-JP: 63 - EN: 62
---------------------------
-PSYCHIC FIRE
-JP: 51 - EN: 50
---------------------------
-Sayounara e Sayonara!
-JP: 42 - EN: 44
---------------------------
-Snow halation
-JP: 40 - EN: 38
---------------------------
-Storm in Lover
-JP: 50 - EN: 62
---------------------------
-SUNNY DAY SONG
+b'P.S. no Mukougawa'
 JP: 58 - EN: 57
 --------------------------
-Susume→Tomorrow
+b'Shadow gate to love'
+JP: 43 - EN: 44
+--------------------------
+b'Shoujo Ijou no Koi ga Shitai'
+JP: 56 - EN: 54
+--------------------------
+b'SKY JOURNEY'
+JP: 47 - EN: 46
+--------------------------
+b'Smile smile ship Start!'
+JP: 86 - EN: 83
+--------------------------
+b'Songs BPM List'
+JP: 86 - EN: 83
+--------------------------
+b'Sora mo Kokoro mo Hareru kara'
+JP: 39 - EN: 38
+--------------------------
+b'Sotsugyou desu ne'
+JP: 44 - EN: 43
+--------------------------
+b'Taiyou o Oikakero!'
+JP: 61 - EN: 59
+--------------------------
+b'Thank you, FRIENDS!!'
+JP: 70 - EN: 69
+--------------------------
+b'Todokanai Hoshi da to Shitemo'
+JP: 40 - EN: 41
+--------------------------
+b'WONDERFUL STORIES'
+JP: 61 - EN: 62
+--------------------------
+b'Snow halation'
+JP: 40 - EN: 38
+--------------------------
+b'Bokutachi wa Hitotsu no Hikari'
+JP: 42 - EN: 43
+--------------------------
+b'START:DASH!!'
+JP: 68 - EN: 67
+--------------------------
+b'After school NAVIGATORS'
+JP: 74 - EN: 75
+--------------------------
+b'Bokutachi wa Hitotsu no Hikari'
+JP: 42 - EN: 43
+--------------------------
+b'COLORFUL VOICE'
+JP: 61 - EN: 65
+--------------------------
+b'Dancing stars on me!'
+JP: 51 - EN: 50
+--------------------------
+b'Daring!!'
+JP: 98 - EN: 96
+--------------------------
+b'Eien Friends'
+JP: 59 - EN: 58
+--------------------------
+b'Futari Happiness'
+JP: 47 - EN: 48
+--------------------------
+b'Future style'
+JP: 48 - EN: 49
+--------------------------
+b'HEART to HEART!'
+JP: 55 - EN: 56
+--------------------------
+b'Hello, Hoshi o Kazoete'
+JP: 56 - EN: 60
+--------------------------
+b'Kokuhaku Biyori, desu!'
+JP: 53 - EN: 51
+--------------------------
+b'Koremade no Love Live!'
+JP: 18 - EN: 17
+--------------------------
+b'Kururin MIRACLE'
+JP: 57 - EN: 58
+--------------------------
+b'Listen to my heart!!'
+JP: 83 - EN: 67
+--------------------------
+b'Love marginal'
+JP: 49 - EN: 48
+--------------------------
+b'Love wing bell'
+JP: 44 - EN: 43
+--------------------------
+b'Natsuiro Egao de 1,2,Jump!'
+JP: 73 - EN: 72
+--------------------------
+b'Nawatobi'
+JP: 48 - EN: 51
+--------------------------
+b'Nightingale Love Song'
+JP: 63 - EN: 62
+--------------------------
+b'PSYCHIC FIRE'
+JP: 51 - EN: 50
+--------------------------
+b'Sayounara e Sayonara!'
+JP: 42 - EN: 44
+--------------------------
+b'Snow halation'
+JP: 40 - EN: 38
+--------------------------
+b'START:DASH!!'
+JP: 68 - EN: 67
+--------------------------
+b'Storm in Lover'
+JP: 50 - EN: 62
+--------------------------
+b'SUNNY DAY SONG'
+JP: 58 - EN: 57
+--------------------------
+b'Susume\xe2\x86\x92Tomorrow'
 JP: 72 - EN: 74
 --------------------------
-Wonderful Rush
+b'Wonderful Rush'
 JP: 87 - EN: 88
 --------------------------
-Yuujou No Change
+b'Yuujou No Change'
 JP: 47 - EN: 49
 --------------------------
-Zurui yo Magnetic today
+b'Zurui yo Magnetic today'
 JP: 59 - EN: 60
 --------------------------
-Over The Next Rainbow
-JP: 51 - EN: 1
---------------------------
-DROPOUT!?
+b'DROPOUT!?'
 JP: 50 - EN: 55
 --------------------------
-DROPOUT!?
+b'Over The Next Rainbow'
+JP: 51 - EN: 53
+--------------------------
+b'DROPOUT!?'
 JP: 50 - EN: 55
 --------------------------
-Over The Next Rainbow
-JP: 51 - EN: 1
+b'Over The Next Rainbow'
+JP: 51 - EN: 53
 --------------------------

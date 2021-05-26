@@ -4,7 +4,7 @@
 思い出  { おもいで }  がまたひらひら　ああ舞い降り  { ああまいおり }  て
 
 出会い  { であい }  の日  { にち }  を思い出す  { おもいだす }  の
-最初  { さいしょ }  から熱く  { あつく }  強く  { つよく }  
+最初  { さいしょ }  から熱く強く  { あつくつよく }  
 始まり  { はじまり }  の胸騒  { むねそう }  ぎ　感じ続け  { かんじつづけ }  ていたよね
 
 
@@ -13,12 +13,12 @@
 再び  { ふたたび }  ここで見つめ  { みつめ }  あえば
 美しい  { うつくしい }  花咲  { はなさき }  き誇る  { ほこる }  
 
-One day in the rain,One day in the shine
+One day in the rain, One day in the shine
 流れる  { ながれる }  想い  { おもい }  よ消え  { きえ }  ないで
 私達  { わたしたち }  は同じ  { おなじ }  場所  { ばしょ }  であしたを見て  { みて }  た
-One day in the rain,One day in the shine
-あふれる想い  { おもい }  を抱き  { だき }  しめ
-私達  { わたしたち }  の道  { みち }  は続く  { つづく }  　続い  { つづい }  て広がる  { ひろがる }  …夢  { …ゆめ }  
+One day in the rain, One day in the shine
+あふれる想い  { おもい }  を抱きしめ  { だきしめ }  
+私達  { わたしたち }  の道  { みち }  は続く  { つづく }  　続い  { つづい }  て広がる  { ひろがる }  …夢  { ゆめ }  
 
 
 揺れ  { ゆれ }  て遠く  { とおく }  に　燃える  { もえる }  緑  { みどり }  
@@ -34,22 +34,22 @@ One day in the rain,One day in the shine
 必ず  { かならず }  ここで確かめ  { たしかめ }  あう
 変わら  { かわら }  ぬ絆  { きずな }  の強さ  { つよさ }  
 
-Someday of my life,Someday of my love
-悲しく  { かなしく }  しないで笑おう  { わらおう }  よ
+Someday of my life, Someday of my love
+悲しく  { かなしく }  しないで笑おう  { わらいおう }  よ
 私達  { わたしたち }  のままでいればあしたも笑顔  { えがお }  
-Someday of my life,Someday of my love
-たくさんの気持ち  { きもち }  が込み  { こみ }  上げ  { あげ }  
-私達  { わたしたち }  へ希望  { きぼう }  くれる　くれるよ広  { こう }  がれ…夢  { …ゆめ }  
+Someday of my life, Someday of my love
+たくさんの気持ち  { きもち }  が込み上げ  { こみあげ }  
+私達  { わたしたち }  へ希望  { きぼう }  くれる　くれるよ広  { こう }  がれ…夢  { ゆめ }  
 
 
-One day in the rain,One day in the shine
+One day in the rain, One day in the shine
 流れる  { ながれる }  想い  { おもい }  よ消え  { きえ }  ないで
 私達  { わたしたち }  は同じ  { おなじ }  場所  { ばしょ }  であしたを見て  { みて }  た
 
-Someday of my life,Someday of my love
-悲しく  { かなしく }  しないで笑おう  { わらおう }  よ
+Someday of my life, Someday of my love
+悲しく  { かなしく }  しないで笑おう  { わらいおう }  よ
 私達  { わたしたち }  のままでいればあしたも笑顔  { えがお }  
-Someday of my life,Someday of my love
-たくさんの気持ち  { きもち }  が込み  { こみ }  上げ  { あげ }  
-私達  { わたしたち }  へ希望  { きぼう }  くれる　くれるよ広  { こう }  がれ…夢  { …ゆめ }  
+Someday of my life, Someday of my love
+たくさんの気持ち  { きもち }  が込み上げ  { こみあげ }  
+私達  { わたしたち }  へ希望  { きぼう }  くれる　くれるよ広  { こう }  がれ…夢  { ゆめ }  
 

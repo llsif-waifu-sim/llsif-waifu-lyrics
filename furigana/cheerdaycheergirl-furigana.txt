@@ -12,11 +12,11 @@ Let's fight, You gotta chance!!
 笑っ  { わらっ }  ている君  { きみ }  が大好き  { だいすき }  
 （きゅんとなっちゃう…でもね内緒  { ないしょ }  ）
 
-少し  { すこし }  こっちを見て  { みて }  よ　（ねえねえこっち！）
+少しこっち  { すこしこっち }  を見て  { みて }  よ　（ねえねえこっち！）
 
 CheerDay CheerGirl! 目  { め }  の前  { まえ }  で　（Hey hey!）
 CheerDay CheerGirl! 言い  { いい }  たいな　（Hey hey!!）
-がんばる人  { にん }  は素敵  { すてき }  だって　みんな思っ  { おもっ }  てるの！
+がんばる人  { にん }  は素敵  { すてき }  だって　みんな思っ  { みんなおもっ }  てるの！
 CheerDay CheerGirl! 目  { め }  の前  { まえ }  で　（Hey hey!）
 CheerDay CheerGirl! 言い  { いい }  たいな　（Hey hey!!）
 夢  { ゆめ }  が絶対  { ぜったい }  叶  { かのう }  うように応援  { おうえん }  してるよ
@@ -26,7 +26,7 @@ Let's fight, I say "chance!"
 Let's fight, You know "chance!"
 Let's fight, You gotta chance!!
 
-もしも転ん  { ころん }  だら　わざと寝た  { ねた }  ふりを
+もしも転ん  { ころん }  だら　わざと寝  { ね }  たふりを
 しちゃいそうな君  { きみ }  だけど落ち込む  { おちこむ }  の？　（なでなでっ）
 熱心  { ねっしん }  な顔  { かお }  がいいな　こっそり眺め  { ながめ }  てるよ
 写真  { しゃしん }  撮っ  { とっ }  てみたくなるから
@@ -46,7 +46,7 @@ CheerDay CheerBoy!　進  { すすむ }  もうね　（hey hey!!）
 
 CheerDay CheerGirl! 目  { め }  の前  { まえ }  で　（Hey hey!）
 CheerDay CheerGirl! 言い  { いい }  たいな　（Hey hey!!）
-がんばる人  { にん }  は素敵  { すてき }  だって　みんな思っ  { おもっ }  てるの！
+がんばる人  { にん }  は素敵  { すてき }  だって　みんな思っ  { みんなおもっ }  てるの！
 CheerDay CheerGirl! 目  { め }  の前  { まえ }  で　（Hey hey!）
 CheerDay CheerGirl! 言い  { いい }  たいな　（Hey hey!!）
 夢  { ゆめ }  が絶対  { ぜったい }  叶  { かのう }  うように応援  { おうえん }  してるよ

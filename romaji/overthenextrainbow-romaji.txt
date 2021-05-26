@@ -15,7 +15,8 @@ Korekkiri janai yo ne? (motto motto kataritai)
 Over the rainbow
 Hikari o abinagara utaou yo tsunagaru yo kokoro ga
 Kiete yuku niji ni yakusoku shiyou
-Wasurenai yo itsumade mo wasurenaide itsumademo
+Wasurenai yo itsumade mo 
+Wasurenaide itsumademo
 
 (Oh! So we go!)
 Yumemiteru dake de wa hajimaranai doryoku shite madamada tarinakute
