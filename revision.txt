@@ -1,3 +1,90 @@
-b'Fly into the sky'
-JP: 57 - EN: 1
+b'Ye Mingzhu'
+JP: 32 - EN: 31
+--------------------------
+b'Queendom'
+JP: 33 - EN: 31
+--------------------------
+b'Break The System'
+JP: 18 - EN: 1
+--------------------------
+b'Toy Doll'
+JP: 18 - EN: 1
+--------------------------
+b'Analog Heart'
+JP: 74 - EN: 29
+--------------------------
+b'Audrey'
+JP: 47 - EN: 46
+--------------------------
+b'Break The System'
+JP: 18 - EN: 1
+--------------------------
+b'Concentrate!'
+JP: 30 - EN: 1
+--------------------------
+b'Diabolic mulier'
+JP: 12 - EN: 1
+--------------------------
+b'Diamond'
+JP: 45 - EN: 59
+--------------------------
+b'Doki Pipo \xe2\x98\x86 Emotion'
+JP: 49 - EN: 53
+--------------------------
+b'Eieisa'
+JP: 18 - EN: 1
+--------------------------
+b'Evergreen'
+JP: 42 - EN: 41
+--------------------------
+b'First Love Again'
+JP: 21 - EN: 20
+--------------------------
+b'Itsu datte for you!'
+JP: 29 - EN: 1
+--------------------------
+b'Just Believe!!!'
+JP: 56 - EN: 54
+--------------------------
+b'Kaika Sengen'
+JP: 43 - EN: 44
+--------------------------
+b'Kakushiaji!'
+JP: 63 - EN: 62
+--------------------------
+b'Ketsui no Hikari'
+JP: 42 - EN: 41
+--------------------------
+b'Make-up session ABC'
+JP: 40 - EN: 39
+--------------------------
+b'Muteki-kyuu*Believer'
+JP: 66 - EN: 67
+--------------------------
+b'Queendom'
+JP: 33 - EN: 31
+--------------------------
+b'Silent Blaze'
+JP: 23 - EN: 1
+--------------------------
+b'Starlight'
+JP: 52 - EN: 53
+--------------------------
+b'Sweet Eyes'
+JP: 83 - EN: 82
+--------------------------
+b'TO BE YOURSELF'
+JP: 17 - EN: 1
+--------------------------
+b'Turn it Up!'
+JP: 23 - EN: 1
+--------------------------
+b'Yada!'
+JP: 36 - EN: 3
+--------------------------
+b'Ye Mingzhu'
+JP: 32 - EN: 31
+--------------------------
+b'Yume ga Koko Kara Hajimaru yo'
+JP: 85 - EN: 79
 --------------------------
